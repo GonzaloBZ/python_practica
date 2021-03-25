@@ -1,3 +1,4 @@
 # python_practica
 
-# Archivo de prueba
+# Éste repositorio contendrá los ejercicios de práctica
+# del Seminario de Python.
